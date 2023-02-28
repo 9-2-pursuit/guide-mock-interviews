@@ -8,13 +8,11 @@ The goal isn't to successfully complete the challenges. The goal is to improve b
 
 Your instructor will give each fellow access to either:
 
-**TO DO** Instructors, update this link to be your link inside your org:
 
 [This set](https://github.com/9-2-pursuit/peer-mock-group-a)
 
 or
 
-**TO DO** Instructors, update this link to be your link inside your org:
 
 [That set](https://github.com/9-2-pursuit/peer-mock-group-b)
 
@@ -22,7 +20,6 @@ or
 
 ### Google Form
 
-**TO DO** Instructors, update this link to be your class's form:
 
 Be sure to share how it went with your instructional team. Please use [this form](https://forms.gle/W3QFnoi4m35rSjZ87).
 
