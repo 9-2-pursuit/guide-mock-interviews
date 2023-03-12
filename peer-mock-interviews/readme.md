@@ -132,10 +132,10 @@ Add your feedback to the Google Form. Submit the form once you have filled in al
 When approaching a problem - 
 
 ### You should
-* Ask clarifying questions (edge case, exp inputs and output)
+* Ask clarifying questions for any edge case, expected inputs and output and write them down on your whiteboard.
 * Talk through different approaches.
 * Continue to communicate your thought process even if you don't know the answer.
-* Psuedo code a solution
+* Psuedo code a solution 
 * Write the real code (this step should only take you a few minutes as the rest of the work has already happend)
 * Test your code. Walk through it line by line testing different sample outputs.
 
