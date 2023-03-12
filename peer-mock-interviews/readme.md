@@ -126,3 +126,20 @@ Once your partner has worked through the challenge/time is up, stop the intervie
 If your partner did not come to a solution, walk through a solution with them.
 
 Add your feedback to the Google Form. Submit the form once you have filled in all required form fields.
+
+## For the fellow being interviewed
+
+When approaching a problem - 
+
+### You should
+* Ask clarifying questions (edge case, exp inputs and output)
+* Talk through different approaches.
+* Continue to communicate your thought process even if you don't know the answer.
+* Psuedo code a solution
+* Write the real code (this step should only take you a few minutes as the rest of the work has already happend)
+* Test your code. Walk through it line by line testing different sample outputs.
+
+### You should NOT
+* Make assumptions
+* Be overly queit
+* Give up. 
